@@ -11,7 +11,8 @@ The screenshot includes all files from the `bspwm` and also the `master` branch.
 
 Arch packages not listed in the masters `packages.txt` files include
 
-- `bspwm` (A modular binary space partitioning window manager with gaps support)
+- `bspwm` (Modular binary space partitioning window manager with gaps support)
+- `sxhkd` (Simple X hotkey deamon with a clean config)
 - `xfce4-panel` (Panel for the Xfce desktop environment)
 - `xfce4-power-manager` (Power manager for Xfce desktop)
 - `xfce4-pulseaudio-plugin` (Pulseaudio plugin for Xfce4 panel)
@@ -20,8 +21,8 @@ Arch packages not listed in the masters `packages.txt` files include
 All elements are styled using the beautiful [Arc Theme](https://github.com/horst3180/Arc-theme)
 while both the IDE and terminal are based on [Atom One Dark](https://github.com/atom/one-dark-syntax).
 
-[← Back to master](https://github.com/re1/dotfiles)
-
 ## Contribution
 
 If you like my dotfiles (and also if you hate them) you can create a pull request for specific files.
+
+[← Back to master](https://github.com/re1/dotfiles)
