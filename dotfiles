@@ -1,7 +1,9 @@
 #!/bin/sh
 DOTS=/data/Projekte/re1/dotfiles
 
-targets=".config/compton.conf .config/fontconfig .config/rofi .config/systemd/user .config/termite .oh-my-zsh/custom .profile .vimrc .zshrc"
+targets=".config/bspwm .config/sxhkd .config/xfce4"
+
+rm -rf .config .local
 
 for target in $targets
 do
@@ -11,5 +13,3 @@ do
     echo "~/$target → $DOTS/$dir"
 done
 
-# save installed packages
-pacman -Qet > $DOTS/packages.txt

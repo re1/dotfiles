@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="thunar" version="1.0">
+  <property name="last-view" type="string" value="ThunarIconView"/>
+  <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_NORMAL"/>
+  <property name="last-window-width" type="int" value="1890"/>
+  <property name="last-window-height" type="int" value="1142"/>
+  <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="last-separator-position" type="int" value="195"/>
+  <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
+  <property name="last-statusbar-visible" type="bool" value="true"/>
+  <property name="last-menubar-visible" type="bool" value="true"/>
+  <property name="hidden-devices" type="array">
+    <value type="string" value="E88E9B9F8E9B653A"/>
+  </property>
+  <property name="hidden-bookmarks" type="array">
+    <value type="string" value="file:///home/markus/Desktop"/>
+  </property>
+  <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLER"/>
+  <property name="last-details-view-column-widths" type="string" value="50,148,50,50,505,50,50,83,426"/>
+  <property name="misc-single-click" type="bool" value="true"/>
+  <property name="shortcuts-icon-size" type="string" value="THUNAR_ICON_SIZE_SMALLEST"/>
+  <property name="tree-icon-size" type="string" value="THUNAR_ICON_SIZE_SMALLEST"/>
+  <property name="last-show-hidden" type="bool" value="true"/>
+  <property name="last-compact-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLEST"/>
+  <property name="misc-text-beside-icons" type="bool" value="false"/>
+  <property name="misc-single-click-timeout" type="uint" value="0"/>
+  <property name="shortcuts-icon-emblems" type="bool" value="true"/>
+  <property name="tree-icon-emblems" type="bool" value="true"/>
+</channel>
