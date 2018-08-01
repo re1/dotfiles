@@ -15,7 +15,6 @@
         <value type="int" value="3"/>
         <value type="int" value="15"/>
         <value type="int" value="5"/>
-        <value type="int" value="2"/>
         <value type="int" value="7"/>
         <value type="int" value="9"/>
         <value type="int" value="6"/>
@@ -95,7 +94,6 @@
       <property name="mpris-players" type="string" value="spotify;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
-    <property name="plugin-2" type="string" value="notification-plugin"/>
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>

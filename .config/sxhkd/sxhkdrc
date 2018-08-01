@@ -3,8 +3,8 @@
 # ---------------------------- #
 
 # terminal emulator
-super + {_,shift +} Return
-	termite {_,-e vim}
+super + {_,alt +} {_,shift +} Return
+	urxvt{c,_} {_,-e vim}
 
 # program launcher
 super + {d,w,shift + d}
