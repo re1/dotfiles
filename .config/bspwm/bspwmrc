@@ -1,7 +1,17 @@
 #! /bin/sh
 
+systemctl --user start sxhkd
+systemctl --user start compton
+systemctl --user start redshift
+systemctl --user start dunst
+systemctl --user start xfce4-panel
+systemctl --user start xfce4-power-manager
+systemctl --user start nm-applet
+
 feh --bg-fill ~/.background.png &
 ~/.config/Thunar/tumblerd &
+
+autorandr -c
 
 bspc monitor HDMI-1 -d 1 2 3 4
 bspc monitor LVDS-1 -d 5 6
