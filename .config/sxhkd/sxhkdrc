@@ -24,7 +24,7 @@ super + control + {c,t,w}
 
 # screen lock and power management
 super + {_,shift +} l
-    dm-tool lock {_,&& systemctl suspend}
+    i3lock -c 000000 -te {_,&& systemctl suspend}
 
 # reload sxhdk
 super + Escape
