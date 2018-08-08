@@ -3,10 +3,6 @@ This is the `bspwm` branch of [@re1](https://github.com/re1)'s [dotfiles](https:
 Each branch contains configuration for different window managers and or working environments. <br />
 [`master`](https://github.com/re1/dotfiles) contains all common files without any relation to a specific branch (avoids deprecation).
 
-![screenshot](https://i.redd.it/0olkv39eqx511.png)
-
-The screenshot includes all files from the `bspwm` and also the `master` branch.
-
 ## Packages
 
 Arch packages not listed in the masters `packages.txt` files include
