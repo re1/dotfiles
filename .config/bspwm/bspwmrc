@@ -31,6 +31,7 @@ bspc config presel_feedback_color       \#abb2bf
 
 bspc rule -a "" desktop=^5  # fix for spotify (https://github.com/baskerville/bspwm/issues/291)
 bspc rule -a TelegramDesktop desktop=^5
-bspc rule -a feh state=floating follow=on
-bspc rule -a gimp state=floating follow=on
-bspc rule -a viewnior state=floating follow=on
+
+bspc rule -a Viewnior state=floating
+bspc rule -a Gpick state=floating
+bspc rule -a feh state=floating
