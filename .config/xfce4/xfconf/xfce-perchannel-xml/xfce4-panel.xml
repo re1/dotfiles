@@ -33,9 +33,9 @@
       <property name="enter-opacity" type="uint" value="100"/>
       <property name="leave-opacity" type="uint" value="100"/>
       <property name="background-color" type="array">
-        <value type="uint" value="11051"/>
-        <value type="uint" value="11822"/>
-        <value type="uint" value="14135"/>
+        <value type="uint" value="12079"/>
+        <value type="uint" value="13364"/>
+        <value type="uint" value="16191"/>
         <value type="uint" value="65535"/>
       </property>
     </property>
