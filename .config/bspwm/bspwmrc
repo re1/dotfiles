@@ -5,8 +5,8 @@ feh --bg-fill ~/.background.png &
 
 autorandr -c
 
-bspc monitor HDMI-1 -d 1 2 3 4
-bspc monitor LVDS-1 -d 5 6
+bspc monitor HDMI-1 -d I II III IV
+bspc monitor LVDS-1 -d V VI
 
 bspc wm -O HDMI-1 LVDS-1
 
@@ -36,3 +36,4 @@ bspc rule -a feh state=floating
 bspc rule -a Gpick state=floating
 bspc rule -a Viewnior state=floating
 bspc rule -a vlc state=floating
+bspc rule -a Xfce4-panel state=floating
