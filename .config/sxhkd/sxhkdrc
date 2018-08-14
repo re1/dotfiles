@@ -24,7 +24,7 @@ super + control + {c,t,w}
 
 # screen lock and power management
 super + {_,shift +} l
-    i3lock -c 000000 -te {_,&& systemctl suspend}
+    i3lock -i ~/.lock.png --24 -l "#2f343f" -o "#61afef" -w "e06c75" {_,&& systemctl suspend}
 
 # reload sxhdk
 super + Escape

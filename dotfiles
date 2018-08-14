@@ -1,5 +1,5 @@
 #!/bin/sh
-DOTS=/data/Projekte/re1/dotfiles
+DOTS=/data/Projects/re1/dotfiles
 
 targets=".config/bspwm .config/sxhkd .config/xfce4"
 

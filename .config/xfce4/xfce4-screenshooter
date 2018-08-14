@@ -1,8 +1,8 @@
-delay=1
+delay=2
 region=3
 action=1
 show_mouse=0
-screenshot_dir=file:/data/Downloads
-app=feh
+screenshot_dir=file:/home/markus/screenshots
+app=viewnior
 last_user=
 
