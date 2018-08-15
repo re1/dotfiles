@@ -1,0 +1,8 @@
+
+[Unit]
+Description=Run a borg backup
+
+[Service]
+Type=simple
+ExecStartPre=notify-send "Borg" "Starting weekly borg backup"
+ExecStart=/usr/bin/borg-backup
