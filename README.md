@@ -25,9 +25,11 @@ As You can see I am working on [Arch Linux](http://archlinux.org/) with [bspwm](
 * **System Monitor**: [Conky](https://github.com/brndnmtthws/conky)
 * **File Manager**: [Thunar](https://docs.xfce.org/xfce/thunar/start)
 
-![Web development](https://i.imgur.com/ZFVax8Y.png) ![LaTeX](https://i.imgur.com/ZFVax8Y.png)
+![Web development](https://i.imgur.com/ZFVax8Y.png)
 
 The second image shows a typical web-development set-up with [WebStorm](https://www.jetbrains.com/webstorm/) and [Firefox Developer Edition](https://www.mozilla.org/de/firefox/developer/) as IDE and browser. My JetBrains IDEs are styled using the [Material Theme](https://github.com/ChrisRM/material-theme-jetbrains) plug-in which can also be adjusted to any [Base16](https://github.com/chriskempson/base16) theme with the [Base16 JetBrains](https://github.com/adilosa/base16-jetbrains) template.
+
+![LaTeX](https://i.imgur.com/ZFVax8Y.png)
 
 As for smaller projects I really like the sidebar disabled inside the IDE which makes for a much cleaner look.
 
