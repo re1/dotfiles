@@ -39,7 +39,7 @@ I would love to get some feedback so please do not be shy to leave a comment or 
 
 # Credits
 
-Last butt least I want to thank [NanoMortis](https://www.deviantart.com/nanomortis) for the amazing artwork and [Addy](https://www.reddit.com/user/addy-fe) for his incredible rices which turned out to be a major inspiration!
+Last but not least I want to thank [NanoMortis](https://www.deviantart.com/nanomortis) for the amazing artwork and [Addy](https://www.reddit.com/user/addy-fe) for his incredible rices which turned out to be a major inspiration!
 
 ---
 
